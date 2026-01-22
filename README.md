@@ -1,2 +1,4 @@
 # VisualPromptStudio-
-This is my prompt portfolio for my Art Appreciation Class
+**Name** Angelica Martinez
+**Course Section** Art Appreciation Section 82
+**Course Description** This is my prompt portfolio for my Art Appreciation Class 
